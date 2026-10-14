@@ -1,7 +1,7 @@
 # Assignment 4 — Forms and Validation
 
 **Student:** Iskander Shaimerdinov  
-**Group:** SE-2542
+**Group:** SE-2524
 
 ## Description
 Five separate HTML pages demonstrate HTML forms, built-in HTML5 validation, Bootstrap form styling, Bootstrap validation classes, and a responsive registration form.
