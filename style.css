@@ -1,0 +1,10 @@
+body { background: #f4f6fb; color: #233047; font-family: Arial, sans-serif; }
+.navbar { background: #20345b; }
+.navbar-brand, .navbar .nav-link { color: white !important; }
+.navbar .nav-link:hover, .navbar .nav-link.active { color: #a7d5ff !important; }
+.form-card { max-width: 850px; margin: 35px auto; background: white; border-radius: 14px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,.07); }
+h1 { font-size: 28px; margin-bottom: 12px; }
+.subtitle { color: #66758c; margin-bottom: 25px; }
+button { margin-right: 8px; }
+.result { margin-top: 18px; }
+@media (max-width: 576px) { .form-card { margin: 18px 10px; padding: 18px; } }
